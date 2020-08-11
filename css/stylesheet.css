@@ -1,0 +1,305 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+body {
+	margin: auto;
+	background-image: url(../img/bg.jpg);
+	background-attachment: fixed;
+	background-size:100%;
+	
+	
+	
+}
+
+
+#logo {
+	margin:auto;
+	background-image:url(../img/logo/logo.gif);
+	background-repeat:no-repeat;
+	background-position:center;
+	height:180px;
+	width:600px;
+	
+}
+
+#nav {
+	height:45px;
+	width:auto;
+	border:3px solid #000;
+	background-color:#FFF;
+	border-left:none;
+	border-right:none;
+	
+	
+
+	
+}
+
+#navbar {
+	
+	width:980px;
+	
+	margin-left:340px;
+
+	
+	
+}
+
+
+#navbar ul {
+	list-style:none;
+	margin-top:10px;
+}
+
+#navbar ul li {
+	display:inline;
+	color:#0000;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:16px;
+	padding-right:60px;
+	
+}
+
+#navbar a:link {
+	color:#000;
+	text-decoration:none;
+	
+	padding: 10px 10px 10px 10px;
+	font-weight:bolder;
+}
+#navbar a:visited {
+	color:#000;
+	text-decoration:none;
+	font-weight:bolder;
+	
+}
+
+#navbar a:hover {
+	color:#FFF;
+	background-color:#000;
+	padding: 7px 10px 10px 10px;
+	text-decoration:none;
+}
+
+#mainslide {
+	
+	width:900px;
+	height:400px;
+	border:#000 1px solid;
+	margin:auto;
+	margin-top:50px;	
+	
+	
+}
+
+#aboutus {
+	margin:auto;
+	margin-top:50px;
+	width:800px;
+	margin-left:300px;
+	
+}
+
+#aboutus h1 {
+	
+	text-align:center;
+	font-size:36px;
+	font-weight:bolder;
+	
+	
+}
+
+#aboutus p {
+	
+	font-size:24px;
+	
+}
+.madamvariety {
+	margin:50px auto -50px auto;
+	padding:100px auto 100px auto;
+	width:900px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:17px;	
+	
+}
+#footer {
+	height:70px;
+	border:#000 4px solid;
+	margin-top:100px;
+	background-color:#000;
+	alignment-adjust:baseline;
+	bottom:0;
+}
+
+#footer tr td {
+	
+	color:#FFF;
+	text-align:center;
+	font-size:20px;
+	padding:20px 20px 20px;
+	
+	
+	
+}
+#footer tr td a span {
+	color:#FFF;	
+	
+}
+
+#footer tr td a:link {
+	
+	text-decoration:none;
+	color:#FFF;
+	
+	
+}
+#footer1 {
+	
+	margin:auto;
+	bottom:0;
+	
+	
+	
+}
+#conditions {
+	width:1000px;
+	margin:auto;
+	margin-top:50px;
+	
+	
+}
+
+#men {
+	margin:auto;
+	margin-top:100px;
+	width:900px;
+	height:auto;
+	left:0;	
+	
+	
+	
+}
+
+#menwomantable {
+	width:900px;
+	margin:100px auto 0 auto;
+	
+	
+}
+#menwomantablespan {
+	color:#000;
+	
+}
+
+#menwomantable a:link {
+	
+	text-decoration:none;
+	color:#000;
+	
+	
+}
+
+#women {
+	margin:auto;
+	margin-top:100px;
+	width:900px;
+	height:auto;
+	left:0;	
+}
+
+#maindiv {
+	margin:50px auto auto auto;
+	width:980px;
+	
+}
+#DesignerJacket {
+	margin:50px auto 100px 20px;
+	width:350px;
+	height:450px;
+	
+	
+}
+#detailsproduct {
+	width:700px;
+	height:450px;
+	float:right;
+	margin:-580px -90px auto 400px;
+	
+	
+}
+
+#comparisondiv {
+	margin:100px auto 100px auto;
+	padding:auto 100px auto 100px;
+	width:980px;
+	
+	
+}
+#comparisonheading {
+	width:300px;
+	margin:auto auto auto;
+	color:#000;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	alignment-adjust:middle;
+	
+}
+#comparisontable {
+	margin:auto auto auto 180px;
+}
+#comparisontable1 {
+	margin:auto auto auto 10px;
+	color:#000;
+	font-size:22px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;	
+	
+}
+
+.button {
+	color:#fff;
+	background-color:#000;
+	font-size:21px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	width:200px;
+	height:50px;
+	border-radius:10px;
+	
+}
+
+
+#contactus {
+	width:1100px;
+	height:600px;
+	margin:100px auto auto auto;
+	
+	
+}
+
+.form {
+	
+	width:500px;
+	height:500px;
+	opacity:3;
+	margin:100px 100px auto 100px;
+	
+	
+}
+
+#map {
+	
+	width:300px;
+	height:400px;
+	opacity:1;
+	border:2px solid #FFF;
+	margin:-504.5px 400px auto 680px;
+
+}
+
+#address {
+width:300px;
+	height:50px;
+	opacity:1;
+	margin:auto 400px auto 680px;
+	padding-top:10px;
+}
